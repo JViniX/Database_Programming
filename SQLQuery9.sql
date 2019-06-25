@@ -1,0 +1,1 @@
+select * from str where str_cod = art
